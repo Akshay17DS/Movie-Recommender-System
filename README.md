@@ -72,3 +72,7 @@ crew: List of crew members and their roles (e.g., director, writer)
 Text vectorization is the process of converting textual data into numerical format for machine learning models to process. In this project, text data (like genres, keywords, cast, and crew) is transformed into vectors to enable efficient computation and analysis
 
 Bag of Words (BoW): Represents text as a matrix of word occurrences, ignoring grammar and word order.
+
+![download](https://github.com/user-attachments/assets/6a6e4fc7-f87b-4c60-b515-98e11cbf09fd)
+
+
