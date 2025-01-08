@@ -1,5 +1,10 @@
 # Movie Recommender System
 
+## Project Overview
+
+The Movie Recommender System simplifies the process of choosing movies by providing personalized recommendations based on movie features. Using a Content-Based Filtering approach, the system analyzes attributes like genres, cast, and crew to compute similarities and suggest movies tailored to user preferences. This project aims to deliver accurate, relevant, and scalable recommendations for users navigating large movie datasets.
+
+
 ## Types of Recommender Systems
 1. **Content-Based Recommender System**:  
    Suggests items based on the similarity between item features and the user's preferences or past interactions.
